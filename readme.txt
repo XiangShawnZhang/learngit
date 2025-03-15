@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 Git has a mutable index called stage 2.
 Git tracks change of files. 
 
+My supervisor is stupid.
+what is wrong?
