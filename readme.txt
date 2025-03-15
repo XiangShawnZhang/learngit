@@ -3,3 +3,5 @@ I am pretty sure about that.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git has a mutable index called stage 2.
+Git tracks change of files. 
+
